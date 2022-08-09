@@ -1,0 +1,6 @@
+Question 1)
+binary tree with factor
+source:-> leetCode
+Link for solution and question :-> https://leetcode.com/problems/binary-trees-with-factors/
+Time complexity of my solutin is O(n2*logn)
+Space complexity for this problems is O(n)
