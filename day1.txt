@@ -1,6 +1,54 @@
 Question 1)
-binary tree with factor
+problem from: Striver SDE sheet
+set-matrix-zero
 source:-> leetCode
-Link for solution and question :-> https://leetcode.com/problems/binary-trees-with-factors/
-Time complexity of my solutin is O(n2*logn)
-Space complexity for this problems is O(n)
+Link for solution and question :-> https://leetcode.com/problems/set-matrix-zeroes/
+Time complexity of my solutin is O(2*(n*m))
+Space complexity for this problems is O(1)
+
+Question 2)
+problem from: Striver SDE sheet
+pascal triangle 2
+link for question and solution is :-> https://leetcode.com/problems/pascals-triangle/submissions/
+Time complexity of soution is o(n*n)
+sapce complexity is o(n);
+
+Question 3)
+problem from: Striver SDE sheet
+Next permutation
+link for question and solution is :-> https://leetcode.com/problems/next-permutation/
+Time complexity of soution is o(n+n+n)
+sapce complexity is o(1);
+
+Question 4)
+problem from: Striver SDE sheet
+Maximum sub array
+source:-> Leet code
+link for question and solution is :-> https://leetcode.com/problems/maximum-subarray/
+Time complexity of soution is o(n)
+sapce complexity is o(1);
+algorithm: Kadane's algorithm
+
+Question 5)
+problem from: Striver SDE sheet
+Sort color
+source:-> Leet code
+link for question and solution is :-> https://leetcode.com/problems/sort-colors/
+Time complexity of soution is o(n^2)
+sapce complexity is o(1);
+
+Question 6)
+problem from: Striver SDE sheet
+Buy stock and sale stock
+source:-> Leet code
+link for question and solution is :-> https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+Time complexity of soution is o(n)
+sapce complexity is o(1);
+
+Question 7)
+problem from: Question of the day
+Convert sorted array to binary search tree
+source:-> Leet code
+link for question and solution is :-> https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+Time complexity of soution is o(logn)
+sapce complexity is o(n);

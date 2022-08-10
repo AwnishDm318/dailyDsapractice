@@ -1,2 +1,18 @@
-Day1:-> 6:08:22
-1) Sliding window
+Day1:-> 10:08:22
+1) Matrix traversal, how can we use matrix first row and coloumn as a extra space and use its information for changing in matrix.
+   like, I solve in set-matrix zero problem, where i use first row and coloumn inforamtion for compution.
+ 2) I also learned how to form matrix with only row by solving pascal triangle.
+    // here is the code..
+     vector<vector<int>> matrix(numRows);
+        
+        
+        for(int i=0;i<numRows;i++)
+        {
+            matrix[i].resize(i+1);
+            matrix[i][0]=matrix[i][i]=1;
+            for(int j=1;j<i;j++)
+                matrix[i][j]=matrix[i-1][j]+matrix[i-1][j-1];
+        }
+        return matrix;
+ 3)I had learned kadanes algorithm.
+ 4) Little bit aboutbinary search tree (creation && insertion opertation)
