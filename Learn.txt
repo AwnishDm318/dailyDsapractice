@@ -16,3 +16,4 @@ Day1:-> 10:08:22
         return matrix;
  3)I had learned kadanes algorithm.
  4) Little bit aboutbinary search tree (creation && insertion opertation)
+5)merge sort
